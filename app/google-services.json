@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "967857118623",
+    "firebase_url": "https://whereismybus-673fa-default-rtdb.firebaseio.com",
+    "project_id": "whereismybus-673fa",
+    "storage_bucket": "whereismybus-673fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967857118623:android:79789932c0c1399c27b1aa",
+        "android_client_info": {
+          "package_name": "com.abhilash.whereismybus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5OXbErRvm8EBvVR9u6g4HeWEAV5GOjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
